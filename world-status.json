@@ -1,9 +1,9 @@
 {
-  "period": 2959,
-  "recordedAt": "2026-09-17T01:46:54.109Z",
-  "tick": 720930,
+  "period": 2960,
+  "recordedAt": "2026-09-24T00:36:24.155Z",
+  "tick": 1321501,
   "epoch": 1788887312097,
-  "population": 30,
+  "population": 0,
   "catchingUp": false,
-  "lastHeartbeatAt": 1789609612319
+  "lastHeartbeatAt": 1790210183068
 }
